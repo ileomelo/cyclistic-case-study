@@ -60,7 +60,7 @@ Essas etapas garantem que os dados estejam prontos para análise, minimizando er
 
 Os dados utilizados para este estudo são fornecidos pela empresa **Divvy**, operadora real de bicicletas compartilhadas em Chicago, através da plataforma **[Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)**.
 
-Os dados foram disponibilizados pela Motivate International Inc. sob esta **[licença]("https://divvybikes.com/data-license-agreement")**.
+Os dados foram disponibilizados pela Motivate International Inc. sob esta **[licença](https://divvybikes.com/data-license-agreement)**.
 
 Você pode baixar os dados diretamente pelo link acima ou acessá-los conforme orientações do estudo de caso.
 
