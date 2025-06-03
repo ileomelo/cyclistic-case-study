@@ -36,9 +36,9 @@ Este projeto segue as etapas do processo de análise de dados ensinadas no curso
 
 Embora este repositório contenha apenas a **tradução do estudo de caso original**, o projeto completo geralmente envolve:
 
-- **Linguagens:** SQL, R ou Python
-- **Ferramentas de visualização:** Tableau, Power BI ou Google Data Studio
-- **Manipulação de dados:** Excel/Google Sheets, pandas (Python) ou tidyverse (R)
+- **Linguagens:** Python
+- **Ferramentas de visualização:** Tableau, Seaborn e Matplotlib
+- **Manipulação de dados:** Pandas (Python)
 
 ---
 
