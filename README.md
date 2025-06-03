@@ -37,7 +37,7 @@ Este projeto segue as etapas do processo de análise de dados ensinadas no curso
 Embora este repositório contenha apenas a **tradução do estudo de caso original**, o projeto completo geralmente envolve:
 
 - **Linguagens:** Python
-- **Ferramentas de visualização:** Tableau, Seaborn e Matplotlib
+- **Ferramentas de visualização:** [Tableau](https://public.tableau.com/app/profile/leonardo.melo7021/viz/CyclisticDemo/Painel2), Seaborn e Matplotlib
 - **Manipulação de dados:** Pandas (Python)
 
 ---
